@@ -128,7 +128,7 @@ $body$
 $if(signature)$
 \closing{Mit freundlichen Grüßen\\\includegraphics[width=3.5cm]{sig}}
 $else$
-\closing{Mit freundlichen Grüßen}
+\closing{Mit freundlichen Grüßen\\ \vspace{2\baselineskip} $fromname$}
 $endif$
 $if(encl)$
 \encl{$encl$}
