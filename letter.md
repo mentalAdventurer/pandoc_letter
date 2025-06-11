@@ -1,27 +1,33 @@
 ---
-fromname: Your Name
-fromstreet: YourSreet 4
-fromzip: 12345 München
-fromemail: my@mail.com
+fromname: Fabian Tschohl
+fromstreet: Sandgasse 13a
+fromzip: 6850 Dornbirn
+fromemail: fabian.tschohl@gmail.com
 recipient: |
-  Title
-
-  Auguststr. 3
-
-  11234 Berlin
-subject: 'Wichtige Information'
-#salutation: "Sehr geehrte Frau Maier,"
-signature: false # place sig.pdf in same folder
-place: 'München'
-#date: "10. Mai 2020"
-#encl: "Amtliche Dokumente"
+  
+  Bezirksgericht Dornbirn  
+  Kapuzinergasse 12  
+  6850 Dornbirn
+subject: 'Befreiung Eintragungsgebühr § 25a - **Tagebuchzahl TZ 1292/2025**'
+salutation: "Sehr geehrte Damen und Herren,"
+signature: false
+place: "Dornbirn"
+date: "18. Juni 2025"
+encl: |
+  – Meldezettel Hauptwohnsitz  
+  – Bestätigung der Aufgabe des bisherigen Wohnsitzes
 ...
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
-tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
-vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
-gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum
-dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor
-invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero
-eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no
-sea takimata sanctus est Lorem ipsum dolor sit amet.
+hiermit übersende ich Ihnen im Zusammenhang mit der Befreiung von der
+Eintragungsgebühr gemäß § 25a GGG-Richtlinien **(Tagebuchzahl TZ 1292/2025)**
+die erforderlichen Unterlagen und bitte um deren Bearbeitung.
+
+Die Unterlagen beinhalten:
+
+- Nachweis der Aufgabe des bisherigen Wohnsitzes durch:  
+  Bestätigung durch früheren Vermieter
+- Nachweis des dringenden Wohnbedürfnisses durch:  
+  Meldebestätigung
+
+
+Für Rückfragen stehe ich Ihnen selbstverständlich jederzeit gerne zur Verfügung.
